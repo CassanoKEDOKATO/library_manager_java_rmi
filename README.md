@@ -1,1 +1,2 @@
-# library_manager_java_rmi
+# Đồ Án Cơ Sở 4
+Java RMI(Remote Method Invocation)
